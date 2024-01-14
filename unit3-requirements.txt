@@ -1,0 +1,7 @@
+rl_zoo3==2.0.0a9
+swig
+cmake
+ffmpeg
+gymnasium[atari]
+gymnasium[accept-rom-license]
+opencv-python
