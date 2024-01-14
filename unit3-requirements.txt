@@ -5,3 +5,4 @@ ffmpeg
 gymnasium[atari]
 gymnasium[accept-rom-license]
 opencv-python
+moviepy
