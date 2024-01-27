@@ -1,7 +1,6 @@
-rl_zoo3==2.0.0a9
-swig
-cmake
-ffmpeg
+git+https://github.com/DLR-RM/rl-baselines3-zoo@update/hf
+# IF AND ONLY IF THE VERSION ABOVE DOES NOT EXIST ANYMORE. UNCOMMENT AND INSTALL THE ONE BELOW
+# rl_zoo3==2.0.0a9
 gymnasium[atari]
 gymnasium[accept-rom-license]
 opencv-python

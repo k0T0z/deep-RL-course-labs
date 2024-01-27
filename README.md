@@ -37,3 +37,21 @@ python -m rl_zoo3.enjoy  --algo dqn  --env SpaceInvadersNoFrameskip-v4  --no-ren
 python -m rl_zoo3.push_to_hub  --algo dqn  --env SpaceInvadersNoFrameskip-v4  --repo-name dqn-SpaceInvadersNoFrameskip-v4 -orga _____ -f logs/
 ```
 
+## Unit 4 building:
+
+1. Clone the repository.
+```bash
+git clone https://github.com/k0T0z/deep-RL-course-labs.git
+```
+
+2. Change directory.
+```bash
+cd deep-RL-course-labs
+```
+
+3. Download the requirements.
+```bash
+pip install -r unit4-requirements.txt
+```
+
+4. Run the notebook.
